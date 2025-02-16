@@ -3,9 +3,7 @@
 
 # Cross-dev!
 
-Hello everyone!, Im creating 
-
-good Repositories 
+Hello everyone!, Im creating<br>good Repositories 
 
 also i'm selling versions of some repo's
 
